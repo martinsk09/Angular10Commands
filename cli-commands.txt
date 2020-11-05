@@ -1,0 +1,13 @@
+-- Get the cli globally --
+
+npm install -g @angular/cli
+
+
+--To Start a Project--
+
+ng new <project-name>
+
+
+-- To run in browser --
+
+ng serve
